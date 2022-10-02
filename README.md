@@ -1,3 +1,3 @@
 # read
 
-A Startup page for designing
+A Startup page for design
